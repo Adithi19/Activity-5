@@ -44,6 +44,8 @@ table,tr,td,th {
 th {
     padding: 20px;
     background-color: rgb(57, 103, 103);
+    border: solid black; 
+    color: white;
 }
 
 .text {
@@ -53,6 +55,7 @@ th {
     font-size: 20px;
     writing-mode: vertical-rl;
     text-orientation: upright;
+    color: black;
 }
 
 li {
